@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<Scenes>
-    <boss_encounter>
-        <replica face="vladNormal">test AAA !!!!</replica>
-        <replica face="vladPout">test BBB !!!!</replica>
-        <replica face="vladShocked">test CCC !!!!</replica>
-    </boss_encounter>
-</Scenes>
